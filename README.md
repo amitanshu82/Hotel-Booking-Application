@@ -30,4 +30,3 @@ To run this entire application –
 3. After this step first start the and run the Config-Server
 4. After this start the Eureka server and then start Booking Service and Payment Service
 5. At last run the Notification service .
-![Uploading image.png…]()
