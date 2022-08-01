@@ -25,7 +25,7 @@ Payment Service is also registered with Eureka server with the name as PAYMENT-S
 
 
 To run this entire application – 
-1. First download the Sweet-Home. 
+1. First download the Hotel-Booking-Application. 
 2. Go to the git url - https://github.com/amitanshu82/git-config-repo and change the configuration for BOOKING-SERVICE.properties file and PAYMENT-SERVICE.properties file . In these files provide the DB connection credentials and also Kafka cluster connection (Kafka Bootstrap Server ) and Other details.
 3. After this step first start the and run the Config-Server
 4. After this start the Eureka server and then start Booking Service and Payment Service
